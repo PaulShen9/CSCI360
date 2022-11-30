@@ -1,0 +1,40 @@
+# Application Name 
+
+This is Paul Shen`s read me file. This is my assignment2 and it's name is the sudoku checker. 
+
+
+
+## Technologies
+
+The basic idea I use for this assignment is I use 9 flags and each flag is for a varriable. Once
+the thread is done, I will just go through all the flag and it will give me a easy view to find
+out it is valid or not.
+
+
+
+## Build and Installation
+
+Type make for compaire.
+User should  put  the input / sudoku file in the resource folder.
+
+
+
+
+## Usage
+User make run to test the sudoku is valid or not.
+
+
+
+
+
+## Contributors
+
+Course powerpoint.
+
+
+
+
+
+## License
+
+Terms and conditions or the types of licenses granted to use this application go here.
